@@ -12,7 +12,7 @@
   "license": "MIT",
   "repository": "https://github.com/spylkkanen/kubernetes-microservices",
   "dependencies": {
-    "body-parser": "^1.18.2",
+    "body-parser": "^1.20.2",
     "cors": "^2.8.4",
     "dotenv": "^5.0.0",
     "express": "^4.16.2"
